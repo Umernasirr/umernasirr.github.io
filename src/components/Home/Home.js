@@ -4,8 +4,9 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-
+import { useNavigate } from "react-router-dom";
 function Home() {
+  const navigate = useNavigate();
   return (
     <div>
       <Container fluid className="home-section" id="home">
@@ -32,7 +33,9 @@ function Home() {
               <div style={{ padding: 20, paddingLeft: 45, textAlign: "left" }}>
                 <Button
                   variant="primary"
-                  href={"/resume"}
+                  onClick={() => {
+                    navigate("/resume");
+                  }}
                   style={{ maxWidth: "300px" }}
                 >
                   &nbsp;View Resume
