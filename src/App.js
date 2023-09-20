@@ -11,6 +11,7 @@ import {
   Route,
   Routes,
   Navigate,
+  HashRouter,
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
@@ -30,7 +31,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/">
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
