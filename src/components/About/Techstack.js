@@ -71,7 +71,7 @@ function Techstack() {
         <Tooltip id="javascript-icon" place="bottom" content="Javascript" />
         <Tooltip id="typescript-icon" place="bottom" content="Typescript" />
         <Tooltip id="node-icon" place="bottom" content="Node.js" />
-        <Tooltip id="react-icon" place="bottom" content="ReactJs" />
+        <Tooltip id="react-icon" place="bottom" content="React" />
         <Tooltip id="mongo-icon" place="bottom" content="MongoDB" />
         <Tooltip id="next-icon" place="bottom" content="NextJs" />
         <Tooltip id="git-icon" place="bottom" content="Git" />
