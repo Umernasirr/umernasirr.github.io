@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/umernasirr.github.io/static/css/main.17a4ed75.css",
-    "main.js": "/umernasirr.github.io/static/js/main.f2bda125.js",
+    "main.js": "/umernasirr.github.io/static/js/main.d27239ff.js",
     "static/js/787.1ed0c42c.chunk.js": "/umernasirr.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/dobbies-1.png": "/umernasirr.github.io/static/media/dobbies-1.ca8b4026dd9e08d1b519.png",
     "static/media/dobbies.png": "/umernasirr.github.io/static/media/dobbies.73d9d43b6ec5daa7befb.png",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/umernasirr.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/umernasirr.github.io/index.html",
     "main.17a4ed75.css.map": "/umernasirr.github.io/static/css/main.17a4ed75.css.map",
-    "main.f2bda125.js.map": "/umernasirr.github.io/static/js/main.f2bda125.js.map",
+    "main.d27239ff.js.map": "/umernasirr.github.io/static/js/main.d27239ff.js.map",
     "787.1ed0c42c.chunk.js.map": "/umernasirr.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17a4ed75.css",
-    "static/js/main.f2bda125.js"
+    "static/js/main.d27239ff.js"
   ]
 }
