@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/umernasirr.github.io/static/css/main.17a4ed75.css",
-    "main.js": "/umernasirr.github.io/static/js/main.d27239ff.js",
-    "static/js/787.1ed0c42c.chunk.js": "/umernasirr.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/dobbies-1.png": "/umernasirr.github.io/static/media/dobbies-1.ca8b4026dd9e08d1b519.png",
-    "static/media/dobbies.png": "/umernasirr.github.io/static/media/dobbies.73d9d43b6ec5daa7befb.png",
-    "static/media/live-recruit-1.png": "/umernasirr.github.io/static/media/live-recruit-1.a92ef484e9548c9d8e7e.png",
-    "static/media/sooper.png": "/umernasirr.github.io/static/media/sooper.859e1e4c21f39cf0eb6a.png",
-    "static/media/sooper-1.png": "/umernasirr.github.io/static/media/sooper-1.c1a0c45ca176962d929a.png",
-    "static/media/neighborschools-1.png": "/umernasirr.github.io/static/media/neighborschools-1.a59da44872a447528da2.png",
-    "static/media/neighborschools.png": "/umernasirr.github.io/static/media/neighborschools.eda27f0e00dc10ad77e9.png",
-    "static/media/live-recruit.png": "/umernasirr.github.io/static/media/live-recruit.329dfdb73c3e2330cccc.png",
-    "static/media/home-main.svg": "/umernasirr.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/Umer Nasir.pdf": "/umernasirr.github.io/static/media/Umer Nasir.741dc4ba5c25fab6a0fb.pdf",
-    "static/media/home-bg.jpg": "/umernasirr.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/umernasirr.github.io/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/umernasirr.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/umernasirr.github.io/index.html",
-    "main.17a4ed75.css.map": "/umernasirr.github.io/static/css/main.17a4ed75.css.map",
-    "main.d27239ff.js.map": "/umernasirr.github.io/static/js/main.d27239ff.js.map",
-    "787.1ed0c42c.chunk.js.map": "/umernasirr.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.3993e598.css",
+    "main.js": "/static/js/main.2ce749cd.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/dobbies-1.png": "/static/media/dobbies-1.ca8b4026dd9e08d1b519.png",
+    "static/media/dobbies.png": "/static/media/dobbies.73d9d43b6ec5daa7befb.png",
+    "static/media/live-recruit-1.png": "/static/media/live-recruit-1.a92ef484e9548c9d8e7e.png",
+    "static/media/sooper.png": "/static/media/sooper.859e1e4c21f39cf0eb6a.png",
+    "static/media/sooper-1.png": "/static/media/sooper-1.c1a0c45ca176962d929a.png",
+    "static/media/neighborschools-1.png": "/static/media/neighborschools-1.a59da44872a447528da2.png",
+    "static/media/neighborschools.png": "/static/media/neighborschools.eda27f0e00dc10ad77e9.png",
+    "static/media/live-recruit.png": "/static/media/live-recruit.329dfdb73c3e2330cccc.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/Umer Nasir.pdf": "/static/media/Umer Nasir.741dc4ba5c25fab6a0fb.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.3993e598.css.map": "/static/css/main.3993e598.css.map",
+    "main.2ce749cd.js.map": "/static/js/main.2ce749cd.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17a4ed75.css",
-    "static/js/main.d27239ff.js"
+    "static/css/main.3993e598.css",
+    "static/js/main.2ce749cd.js"
   ]
 }
