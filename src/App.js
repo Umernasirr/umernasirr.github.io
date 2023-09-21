@@ -31,7 +31,7 @@ function App() {
   }, []);
 
   return (
-    <Router basename={`/${process.env.PUBLIC_URL}`}>
+    <HashRouter>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
@@ -45,7 +45,7 @@ function App() {
         </Routes>
         <Footer />
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
