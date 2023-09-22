@@ -10,7 +10,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
-  const [pageNumber, setPageNumber] = useState(1);
+  // const [pageNumber, setPageNumber] = useState(1);
 
   useEffect(() => {
     setWidth(window.innerWidth);
@@ -40,11 +40,11 @@ function ResumeNew() {
             }}
             className="d-flex justify-content-center"
           >
-            <Page pageNumber={pageNumber} scale={width > 786 ? 1.5 : 0.9} />
+            <Page pageNumber={1} scale={width > 786 ? 1.5 : 0.9} />
           </Document>
         </Row>
 
-        <Row style={{ justifyContent: "center", position: "relative" }}>
+        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
           <nav>
             <Button
               variant={pageNumber === 1 ? "primary" : "outline-secondary"}
@@ -53,15 +53,8 @@ function ResumeNew() {
             >
               1
             </Button>
-            <Button
-              variant={pageNumber === 2 ? "primary" : "outline-secondary"}
-              style={{ margin: 5 }}
-              onClick={() => setPageNumber(2)}
-            >
-              2
-            </Button>
           </nav>
-        </Row>
+        </Row> */}
       </Container>
     </div>
   );
